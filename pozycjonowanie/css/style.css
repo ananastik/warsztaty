@@ -1,0 +1,24 @@
+#relative {
+width:400px;
+height:400px;
+position:relative;
+background-color: #a6a9b6;
+border-color: #666360;
+border-style: solid;
+border-width: 10px;
+}
+
+#absolute {
+width:200px;
+height:200px;
+position:absolute;
+background-color: #ff912e;
+bottom:0;
+}
+#absolute2 {
+width:200px;
+height:200px;
+position:absolute;
+background-color: #e4e4e4;
+right:0;
+}
