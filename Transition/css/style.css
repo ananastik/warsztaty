@@ -1,0 +1,30 @@
+.box{
+    width:150px;
+    height:150px;
+    background-color:lightpink;
+    margin: 50px;
+}
+
+
+#box1{
+    transition: width 3s;
+}
+
+#box1:hover{
+    width: 300px;
+}
+#box2{
+    transition: height 3s;
+}
+
+#box2:hover{
+    height: 300px;
+}
+#box3{
+    transition: height 3s, width 4s;
+}
+
+#box3:hover{
+    height: 300px;
+    width:300px;
+}
