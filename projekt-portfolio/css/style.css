@@ -76,6 +76,7 @@ figure.portfolio-img {
     flex-basis: 25%;
     margin:0;
     padding:0;
+    position:relative;
 }
 
 figure.portfolio-img img{

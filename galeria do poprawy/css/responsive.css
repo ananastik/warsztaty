@@ -25,4 +25,7 @@
    #gallery {
         width: 100%;
     }
+    figure{
+        width:100%;
+    }
 }
